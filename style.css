@@ -734,6 +734,8 @@ nav ul li {
 
     .rew-card{
         width: 100%;
+        height: fit-content;
+        padding-bottom: 15px;
     }
 
     .testimonials-container h3{
@@ -746,6 +748,7 @@ nav ul li {
 
     .action-kontakt > p{
         font-size: 32px;
+        margin: 0 10px;
     }
 }
 
